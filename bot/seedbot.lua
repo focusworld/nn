@@ -234,29 +234,14 @@ function create_config( )
     "sticker",
     "hi"
     },
-    sudo_users = {179286096,157187288,70183262,166709132,0,tonumber(our_id)},--Sudo users
+    sudo_users = {157187288,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
+    about_text = [[king asp v4
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/SEEDTEAM/TeleSeed
-
-Admins
-@Empero [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@king_asp [persian]
 ]],
     help_text_realm = [[
 Realm Commands:
