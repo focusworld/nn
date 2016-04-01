@@ -228,30 +228,15 @@ function create_config( )
     "hi",
     "sticker"
     },
-    sudo_users = {179286096,157187288,70183262,166709132,0,tonumber(our_id)},--Sudo users
+    sudo_users = {157187288,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[king v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
-
-Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
-
-Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
 
 Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+Persian: @king_asp
 ]],
     help_text_realm = [[
 Realm Commands:
